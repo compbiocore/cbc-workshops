@@ -10,7 +10,7 @@ Brown CBC's Workshop Notebook Index
    :maxdepth: 2
    :caption: Contents:
 
-   Workshop Tools / Tutorials <https://compbiocore.github.io/cbc-workshops/>
+   Workshop Tools / Tutorials <https://compbiocore.github.io/cbc-workshop-tools/>
 
    CBC Workshop 1 (Intro to R) <https://compbiocore.github.io/r-workshop-1/>
 
