@@ -14,6 +14,9 @@ Brown CBC's Workshop Notebook Index
 
    CBC Workshop 1 (Intro to R) <https://compbiocore.github.io/r-workshop-1/>
 
+   CBC Workshop 2 (Intro to Bioconductor) <https://compbiocore.github.io/bioconductor-workshop-1/>
+
+
 	
 Purpose
 =======
