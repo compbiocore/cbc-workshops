@@ -12,9 +12,9 @@ Brown CBC's Workshop Notebook Index
 
    Workshop Tools / Tutorials <https://compbiocore.github.io/cbc-workshop-tools/>
 
-   CBC Workshop 1 (Intro to R) <https://compbiocore.github.io/r-workshop-1/>
+   CBC Workshop 1 (Intro to R - Andrew Leith) <https://compbiocore.github.io/r-workshop-1/>
 
-   CBC Workshop 2 (Intro to Bioconductor) <https://compbiocore.github.io/bioconductor-workshop-1/>
+   CBC Workshop 2 (Intro to Bioconductor - Vince Carey) <https://compbiocore.github.io/bioconductor-workshop-1/>
 
 
 	
