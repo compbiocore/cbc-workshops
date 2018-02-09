@@ -12,6 +12,8 @@ Brown CBC's Workshop Notebook Index
 
    Workshop Tools / Tutorials <https://compbiocore.github.io/cbc-workshop-tools/>
 
+.. Test comment - does this alter the spacing?
+
    CBC Workshop 1 (Intro to R - Andrew Leith) <https://compbiocore.github.io/r-workshop-1/>
 
    CBC Workshop 2 (Intro to Bioconductor - Vince Carey) <https://compbiocore.github.io/bioconductor-workshop-1/>
@@ -20,6 +22,8 @@ Brown CBC's Workshop Notebook Index
 	
 Purpose
 =======
+
+.. Test comment 2 - likewise?
 
 This site serves as an index for the documentation and notebooks from the CBC coding and data science workshops.  If you have never used this site before, please begin with the 'Workshop Tools / Tutorials' link, which contains instructions for configuring the software we used in our demonstration.
 
