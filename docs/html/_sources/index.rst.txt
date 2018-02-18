@@ -16,6 +16,8 @@ Brown CBC's Workshop Notebook Index
 
    CBC Workshop 2 (Intro to Bioconductor - Vince Carey) <https://compbiocore.github.io/bioconductor-workshop-1/>
 
+   CBC Workshop 3 (Bioconductor for RNA-seq and ChIP-seq - Levi Waldron) <https://compbiocore.github.io/bioconductor-workshop-2/>
+
 
 	
 Purpose
