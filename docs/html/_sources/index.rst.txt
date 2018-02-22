@@ -20,7 +20,7 @@ Brown CBC's Workshop Notebook Index
 
 
 Current Workshop User Login
-===========================
+'''''''''''''''''''''''''''
 
 Please click the following link to be taken to the user directory for the current workshop.  There, you'll find the IP that has been assigned to you for the duration of the workshop.
 
