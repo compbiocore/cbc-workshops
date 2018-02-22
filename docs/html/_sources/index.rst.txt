@@ -18,6 +18,8 @@ Brown CBC's Workshop Notebook Index
 
    CBC Workshop 3 (Bioconductor for RNA-seq and ChIP-seq - Levi Waldron) <https://compbiocore.github.io/bioconductor-workshop-2/>
 
+   Current Workshop User Directory (login here) <https://compbiocore.github.io/cbc-workshop-directory/>
+
 
 	
 Purpose
