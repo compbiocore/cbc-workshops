@@ -18,6 +18,8 @@ Brown CBC's Workshop Notebook Index
 
    CBC Workshop 3 (Bioconductor for RNA-seq and ChIP-seq - Levi Waldron) <https://compbiocore.github.io/bioconductor-workshop-2/>
 
+   CBC Workshop 4 (Single-Cell Analysis - Ashok Ragavendran) <https://compbiocore.github.io/single-cell-workshop/>
+
    Introduction to Linux Lecture (Andrew Leith) <https://compbiocore.github.io/cbc-linux-tutorial/>
 
 
